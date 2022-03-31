@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3336"
+    sodipodi:docname="clée.svg"
+    viewBox="0 0 48 48" 
+    width="48" height="48"
+    version="1.1"
+    inkscape:version="0.47pre4 r22446"
+  >
+  <title
+      id="title3408"
+    >personnage</title
+  >
+  <defs
+      id="defs3338"
+    >
+    <linearGradient
+        id="linearGradient21360"
+        y2="725.04"
+        gradientUnits="userSpaceOnUse"
+        x2="1340.3"
+        y1="725.04"
+        x1="1307.8"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop21356"
+          style="stop-color:#ffffff"
+          offset="0"
+      />
+      <stop
+          id="stop21358"
+          style="stop-color:#ffffff;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <filter
+        id="filter6695-4"
+        width="1.7608"
+        y="-.38038"
+        x="-.38038"
+        height="1.7608"
+        color-interpolation-filters="sRGB"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur6697-1"
+          stdDeviation="2.2075472"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="45"
+      pagecolor="#ffffff"
+      inkscape:window-height="639"
+      inkscape:window-maximized="0"
+      inkscape:zoom="1.4"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="79.328277"
+      inkscape:cy="71.348638"
+      inkscape:window-width="1261"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Calque 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -1002.4)"
+    >
+    <g
+        id="g6709"
+        style="enable-background:new"
+        transform="matrix(1.0509 0 0 1.0509 -263.13 164.49)"
+      >
+      <path
+          id="path6556"
+          sodipodi:rx="11.364216"
+          sodipodi:ry="11.364216"
+          style="color:#000000;enable-background:accumulate;fill:#000000"
+          sodipodi:type="arc"
+          d="m1342.5 722.29c0 6.2763-5.088 11.364-11.364 11.364-6.2762 0-11.364-5.0879-11.364-11.364 0-6.2763 5.088-11.364 11.364-11.364 6.2763 0 11.364 5.0879 11.364 11.364z"
+          transform="translate(-1055.1 93.222)"
+          sodipodi:cy="722.29486"
+          sodipodi:cx="1331.1285"
+      />
+      <rect
+          id="rect6558"
+          style="color:#000000;enable-background:accumulate;fill:#000000"
+          ry="5.5558"
+          height="14.647"
+          width="11.112"
+          y="820.82"
+          x="270.47"
+      />
+      <path
+          id="path6560"
+          sodipodi:rx="2.5253813"
+          sodipodi:ry="2.5253813"
+          style="color:#000000;enable-background:accumulate;fill:#000000"
+          sodipodi:type="arc"
+          d="m1331.4 759.42c0 1.3947-1.1307 2.5254-2.5254 2.5254s-2.5254-1.1306-2.5254-2.5254c0-1.3947 1.1307-2.5254 2.5254-2.5254s2.5254 1.1306 2.5254 2.5254z"
+          transform="translate(-1052.8 75.453)"
+          sodipodi:cy="759.41797"
+          sodipodi:cx="1328.8557"
+      />
+      <path
+          id="path6562"
+          style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:.99921;fill:none"
+          d="m1308.7 733.44 7.9375 1.7812-7.9375-1.7812zm0 2.2812 7.9375 1.7812-7.9375-1.7812zm0 2.2812 7.9375 1.7812l-7.9-1.78zm0 2.6562 4.4375 1-4.4375-1z"
+          transform="translate(-1036.8 91.347)"
+      />
+      <path
+          id="path6680"
+          sodipodi:rx="6.9642859"
+          sodipodi:ry="6.9642859"
+          style="color:#000000;filter:url(#filter6695-4);enable-background:accumulate;fill:url(#linearGradient21360)"
+          sodipodi:type="arc"
+          d="m1321.2 725.04c0 3.8463-3.118 6.9643-6.9643 6.9643-3.8462 0-6.9642-3.118-6.9642-6.9643s3.118-6.9643 6.9642-6.9643c3.8463 0 6.9643 3.118 6.9643 6.9643z"
+          transform="matrix(1.1893 0 0 1.1092 -1287 10.598)"
+          sodipodi:cy="725.04077"
+          sodipodi:cx="1314.2856"
+      />
+      <path
+          id="path6675"
+          style="color:#000000;enable-background:accumulate;fill:#ffffff"
+          d="m276.14 819.96c-1.3872 0-2.5195 1.0552-2.6563 2.4062h5.3125c-0.1372-1.3507-1.2694-2.4062-2.6562-2.4062z"
+      />
+      <path
+          id="path6699"
+          sodipodi:rx="2.7779195"
+          sodipodi:ry="1.2626907"
+          style="color:#000000;enable-background:accumulate;fill:#ffffff"
+          sodipodi:type="arc"
+          d="m1312.2 717.24c0 0.69736-1.2437 1.2627-2.7779 1.2627s-2.7779-0.56533-2.7779-1.2627 1.2437-1.2627 2.7779-1.2627 2.7779 0.56532 2.7779 1.2627z"
+          inkscape:transform-center-x="-2.471626"
+          inkscape:transform-center-y="-1.7904444"
+          transform="matrix(.85842 -.51296 .51296 .85842 -1220.3 866.08)"
+          sodipodi:cy="717.24408"
+          sodipodi:cx="1309.4103"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Ampoule</dc:title
+        >
+        <dc:date
+          >2010-04-04T14:11:46</dc:date
+        >
+        <dc:description
+          >ampoule idée, light lumière spot flash</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/36979/ampoule-by-antoine</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Antoine</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >ampoule idée</rdf:li
+            >
+            <rdf:li
+              >light lumière spot flash</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

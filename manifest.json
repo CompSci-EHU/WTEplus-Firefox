@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "WTE+",
+    "version": "0.1",
+
+    "description": "Adds user features to Edge Hill Web Teaching Environment",
+
+    "permissions": [
+        "storage"
+    ],
+
+    "icons": {
+        "48": "icons/ampoule.svg",
+        "96": "icons/ampoule.svg"
+    },
+
+    "content_scripts": [{
+            "css": ["styles/enhancements.css"],
+            "matches": ["*://teaching.computing.edgehill.ac.uk/wte/*"],
+            "run_at": "document_start"
+        },
+        {
+            "matches": ["*://teaching.computing.edgehill.ac.uk/wte/*"],
+            "js": ["js/enhancements.js"],
+            "run_at": "document_end"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+/* Work in progress
+    PHP and other languages have their own styles. Currently untested as of v0.1
+    Use of ID selectors and !important needs removing
+*/
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.source .highlight {
+    background: white;
+}
+
+.tabs-content .CodeMirror-gutters {
+    background: #444444;
+}
+
+.cm-s-default .cm-def,
+.cm-tag,
+.high-contrast a,
+.tabs-title a {
+    color: #2a86c4 !important;
+}
+
+p+span.source {
+    background-color: #444;
+}
+
+.nt,
+.k,
+.kc,
+.kd,
+.kt,
+.mh,
+.mf,
+.mi,
+.n,
+.na,
+.o,
+.s,
+.s1,
+.rest .source .il,
+.rest .source .s1,
+.rest .source .s2,
+.rest .source .sd,
+.rest .source .se,
+.rest .source .sh,
+.rest .source .si,
+.rest .source .sr,
+.rest .source .ss,
+.rest .source .sx {
+    color: #ddd !important;
+}
+
+.rest tt.docutils.literal {
+    padding: 0 .2rem;
+    border: 1px solid #7a7a7a;
+    border-radius: 3px;
+}
+
+
+/* file menus */
+
+.is-submenu-item span {
+    color: #222 !important;
+}
+
+.p,
+.cm-tag.cm-bracket,
+.rest span.source span.nt {
+    color: #aaa !important;
+}
+
+.rest span.source,
+code,
+.source .highlight,
+.tabs-content .CodeMirror-lines,
+.tabs-title.is-active a {
+    background: #252525;
+    color: #fff !important;
+}
+
+nav.part-pagination,
+.tabs-content .editor-wrapper,
+#files>ul,
+body {
+    background: rgb(49, 49, 49);
+    color: #DDD;
+}
+
+.cm-number {
+    color: rgb(209, 255, 157) !important;
+}
+
+.cm-tag,
+.cm-variable-1,
+.cm-variable-2,
+.cm-variable-3,
+.cm-qualifier {
+    color: #f8df4f !important;
+}
+
+.cm-variable,
+.cm-string,
+.cm-atom {
+    color: rgb(252, 178, 109) !important;
+}
+
+.cm-comment {
+    color: rgb(83, 173, 83) !important;
+}
+
+.cm-keyword {
+    color: rgb(227, 125, 230) !important;
+}
+
+.cm-property,
+.cm-attribute {
+    color: rgb(170, 210, 248) !important;
+}
+
+#viewer {
+    background: white;
+    color: black;
+}
